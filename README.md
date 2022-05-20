@@ -1,1 +1,1 @@
-# .github
+# GentleHouse profile
